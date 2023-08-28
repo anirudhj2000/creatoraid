@@ -2,8 +2,8 @@ import React from "react";
 
 const Navbar = () => {
     return (
-        <div className="w-full flex flex-row backdrop-blur-sm fixed top-0 left-0 right-0 justify-between px-8 py-4">
-            <div className="text-[2rem]">
+        <div className="w-full flex flex-row backdrop-blur-sm fixed top-0 left-0 right-0 items-center justify-between px-8 py-4">
+            <div className="text-[2rem] self-center">
                 <h4 className="text-white">Creator Aid</h4>
             </div>
             <div className="flex flex-row w-1/4 justify-around text-white text-[1.25rem] ">

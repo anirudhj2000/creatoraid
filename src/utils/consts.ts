@@ -3,22 +3,22 @@ import React from "react";
 export const SocialsList = [
     {
         title: 'twitter / X',
-        image: 'twitter.png'
+        image: 'twitter.svg'
     },
     {
         title: 'instagram',
-        image: 'instagram.png'
+        image: 'instagram.svg'
     },
     {
         title: 'snapchat',
-        image: 'snapchat.png'
+        image: 'snapchat.svg'
     },
     {
         title: 'tiktok',
-        image: 'tiktok.png'
+        image: 'tiktok.svg'
     },
     {
         title: 'youtube',
-        image: 'youtube.png'
+        image: 'youtube.svg'
     },
 ]
